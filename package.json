@@ -230,7 +230,7 @@
     "dependencies": {
         "@types/vscode": "^1.57.0",
         "escape-html": "^1.0.3",
-        "prismjs": "^1.15.0",
+        "prismjs": "^1.27.0",
         "vscode-uri": "^1.0.3"
     }
 }
